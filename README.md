@@ -1,5 +1,5 @@
 Please NOTE: This was my very first solo analysis and looking back now that I am working on my second analysis and all
-of my courses are complete, I realize I was rushing through this one and didn't take enough time to skim everything in 
+of my courses are complete- I realize I was rushing through this one and didn't take enough time to skim everything in 
 order to draw the best business questions/recommendations from the data.
 
 I had not completed the Google Analytics program yet, therefore because the courses have a monthly charge I wanted to complete
